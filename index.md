@@ -16,7 +16,7 @@ enddate: 2020-12-09        # machine-readable end date for the workshop in YYYY-
 instructor: ["Madison Youngblom", "Clare Michaud", "Sarah Stevens", "Anne Fouilloux", "Toby Hodges", "Aleksandra Nenadic", "Christina Koch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Maij Xyooj", "Casey Schacher", "Nathaniel Schleif", "Sarah Stevens", "Lauren Michael", "Moksha Menghaney", "Elizabeth McDaniel", "Erwin Lares", "Julian Bauer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-09-16-uwmadison-mini  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: "117028562581"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
